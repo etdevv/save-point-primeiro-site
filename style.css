@@ -58,7 +58,7 @@ main {
     color: #22396F !important;
 }
 
-.anuncio-xbox {
+.anuncio{
     animation: fadeIn 1500ms ease-in forwards;
 
 }
@@ -71,7 +71,7 @@ main {
 
 }
 
-.anuncio-nintendo {
+.anuncio {
     animation: fadeIn 3s ease-in forwards;
 }
 
@@ -97,6 +97,11 @@ main {
     display: flex;
     justify-content: center;
     background-color: #22396F !important;
+}
+.rodape{
+    position: absolute;
+    bottom: 0;
+    width: 100%;
 }
 
 html {
