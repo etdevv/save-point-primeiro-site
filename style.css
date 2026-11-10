@@ -123,3 +123,7 @@ html {
     font-weight: bolder;
     font-style: normal;
 }
+.conta-pessoal{
+    display: flex;
+    align-items: flex-end;
+}
