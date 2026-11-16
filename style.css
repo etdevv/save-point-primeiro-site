@@ -127,3 +127,7 @@ html {
     display: flex;
     align-items: flex-end;
 }
+.cartao{
+    display: flex;
+    justify-content: center;
+}
