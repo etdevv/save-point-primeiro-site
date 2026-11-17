@@ -74,7 +74,12 @@ main {
 .anuncio {
     animation: fadeIn 3s ease-in forwards;
 }
-
+.anuncio-separado{
+    display: flex;
+    image-resolution: initial;
+    flex-direction: row;
+    align-items: flex-start;
+}
 
 .descricao {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
